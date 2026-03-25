@@ -13,8 +13,7 @@ Fork → edit one file → share the link. They play. Magic happens.
 
 [🎮 **Play Demo**](#) &nbsp;·&nbsp; [📖 **Customization Guide**](docs/CUSTOMIZING.md) &nbsp;·&nbsp; [🏗️ **Architecture**](docs/ARCHITECTURE.md)
 
-<!-- Record a GIF of the full flow (menu → gameplay → victory letter) and replace this -->
-![Love Quest gameplay — coming soon](https://placehold.co/600x400/0d0221/ff6b9d?text=Add+your+gameplay+GIF+here)
+![Love Quest gameplay](docs/assets/demo.gif)
 
 </div>
 
